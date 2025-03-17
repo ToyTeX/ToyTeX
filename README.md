@@ -1,5 +1,5 @@
-- 👋 Salutions!  I’m @ToyTeX (aka stephanie)
-- 📫 Personal: stephanie.p.atherton@gmail.com
+- 👋 Hiya!  I’m @ToyTeX (aka stephanie)
+
   
 
 <!---
