@@ -1,4 +1,4 @@
-- 👋 Hiya!  I’m @ToyTeX (aka stephanie)
+- 👋 Hiya! 
 
   
 
